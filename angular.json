@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-p9-observable"
+    }
+  },
+  "defaultProject": "angular-p9-observable",
+  "cli": {
+    "analytics": false
+  }
 }
